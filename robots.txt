@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /Content/
+Disallow: /Images/
+Disallow: /Scripts/
+Disallow: /js/
+Disallow: /css/
+Disallow: /bundles/
+Disallow: /Admin/
